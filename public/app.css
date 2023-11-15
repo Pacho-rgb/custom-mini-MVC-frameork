@@ -1,0 +1,9 @@
+body{
+    padding: 50px;
+}
+.thumbnail{
+    width: 80px;
+}
+.info button{
+    margin-right: 5px;
+}
